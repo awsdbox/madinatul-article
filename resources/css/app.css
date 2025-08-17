@@ -1,0 +1,6 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small tweaks */
+.prose a { color: theme('colors.indigo.600'); text-decoration: underline; }
